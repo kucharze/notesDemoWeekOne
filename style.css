@@ -1,0 +1,20 @@
+.box {
+  border: solid red;
+  height: 90px;
+  width: 90px;
+  /* margin: 50px; */
+  padding-top: 20px;
+  /* margin-left: 50px;
+  margin-bottom: 35px; */
+}
+#boxone {
+  margin-bottom: 25px;
+}
+.majorContainer {
+  border: solid lime;
+}
+.square {
+  height: 90px;
+  width: 90px;
+  border: solid blue;
+}
