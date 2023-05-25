@@ -24,3 +24,13 @@
   border-radius: 50%;
   border: solid purple;
 }
+.classroom {
+  width: 60%;
+  border: solid red;
+  border-radius: 12px;
+  margin: 33px;
+}
+
+.text {
+  text-align: right;
+}
